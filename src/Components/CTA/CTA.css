@@ -1,0 +1,32 @@
+.cta-btn {
+    display: flex;
+    align-items: center;
+  position: fixed;
+  bottom: 79px;
+  right: 15px;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 10px 30px;
+  border-radius: 7px;
+  font-size: 1rem;
+  background: gold;
+  color: #0b1f3a;
+  img {
+    width: 25px;
+  }
+}
+.cta-btn:hover{
+  background: rgb(212, 181, 0);
+
+}
+@media (max-width: 768px) {
+ .cta-btn{
+    border-radius: 4px;
+  padding: 8px 15px;
+
+font-size: .8rem;
+img{
+    height: 15px;
+}
+ }   
+}

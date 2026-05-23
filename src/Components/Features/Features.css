@@ -1,0 +1,33 @@
+.features-container {
+  display: flex;
+  padding: 30px 10px 65px ;
+  flex-direction: column;
+  align-items: center;
+  background: #ebebeb;
+  text-align: center;
+  h2{
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  p{
+    margin: 15px 0px;
+    font-size: 1.1rem;
+  }
+}
+.features-card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 30px;
+}
+@media (max-width: 768px){
+  .features-container{
+    padding: 30px 10px;
+    h2{
+      font-size: 1.5rem;
+    }p{
+      font-size: 1.1rem;
+    }
+  }
+}

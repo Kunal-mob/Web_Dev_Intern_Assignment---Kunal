@@ -1,0 +1,24 @@
+.eligiblity-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  width: 115%;
+  border-radius: 10px;
+  padding: 10px 15px;
+  border: 2px solid gold;
+  box-shadow: 1px 1px 8px gold;
+  font-size: 1.3rem;
+
+  p {
+    color: black;
+    margin: 0;
+  }
+}
+@media (max-width: 768px) {
+  .eligiblity-card {
+    border-radius: 5px;
+    padding: 8px 12px;
+    font-size: 0.9rem;
+  }
+}
