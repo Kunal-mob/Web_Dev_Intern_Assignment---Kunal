@@ -20,10 +20,10 @@ const CTA = () => {
   return (
     <>
       {showCTABtn && (
-        <div className="cta-btn">
+        <a className="cta-btn" href="/public/Web Development Internship Assignment - LearningShala.pdf" download>
           <img src={assets.download_icon} alt="" />
           Download Brochure
-        </div>
+        </a>
       )}
     </>
   );
