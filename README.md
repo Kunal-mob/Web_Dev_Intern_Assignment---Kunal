@@ -8,9 +8,12 @@
 
 [![React](https://img.shields.io/badge/React-19.2.6-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8.0.12-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white)](https://web-dev-intern-assignment-kunal.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
 
 A modern web development project built as part of an internship interview assignment.
+
+### [🌐 Live Demo](https://web-dev-intern-assignment-kunal.vercel.app)
 
 </div>
 
@@ -18,7 +21,9 @@ A modern web development project built as part of an internship interview assign
 
 ## 📋 Overview
 
-This is a **React + Vite** project showcasing modern web development practices and techniques. The project demonstrates proficiency in front-end development using contemporary tools and frameworks with optimal performance and developer experience.
+This is a **React + Vite** project showcasing modern web development practices and techniques. The project demonstrates proficiency in front-end development using contemporary tools and frameworks with optimal performance and developer experience. 
+
+The application is **live and deployed** on Vercel for seamless access and real-time testing.
 
 ### ✨ Tech Stack
 
@@ -29,6 +34,7 @@ This is a **React + Vite** project showcasing modern web development practices a
 - **Markup:** HTML5 (2.3%)
 - **Linting:** ESLint with React plugins
 - **Module System:** ES Modules
+- **Deployment:** Vercel
 
 ---
 
@@ -41,6 +47,15 @@ This project was created as part of a **Web Development Intern Interview Assignm
 - ✅ Code quality with ESLint
 - ✅ Hot Module Replacement (HMR) for development
 - ✅ Production-ready build optimization
+- ✅ Seamless deployment on Vercel
+
+---
+
+## 🌐 Live Demo
+
+**Visit the live application:** [https://web-dev-intern-assignment-kunal.vercel.app](https://web-dev-intern-assignment-kunal.vercel.app)
+
+The project is deployed and running on Vercel with automatic deployments on every push to the main branch.
 
 ---
 
@@ -127,6 +142,7 @@ Web_Dev_Intern_Assignment---Kunal/
 - 🛠️ **Modern Tooling** - ESLint configured for code quality
 - 📱 **Responsive Design** - Mobile-first CSS approach
 - 🎯 **Production Ready** - Optimized build for deployment
+- 🌐 **Live Deployment** - Hosted on Vercel with auto-deployments
 
 ---
 
@@ -144,6 +160,11 @@ Includes ESLint with:
 ### React Version
 Using React 19.2.6 with React-DOM for modern component development.
 
+### Deployment
+- **Platform:** Vercel
+- **Auto-deployment:** Enabled on main branch
+- **URL:** https://web-dev-intern-assignment-kunal.vercel.app
+
 ---
 
 ## 🎓 Learning Outcomes
@@ -155,6 +176,7 @@ This project demonstrates proficiency in:
 3. **JavaScript** - Modern ES module syntax
 4. **CSS** - Styling and responsive design
 5. **Development Workflow** - Building, linting, and optimization
+6. **DevOps** - Deploying applications on Vercel
 
 ---
 
@@ -162,6 +184,7 @@ This project demonstrates proficiency in:
 
 - **Author:** Kunal
 - **Repository:** [GitHub Link](https://github.com/Kunal-mob/Web_Dev_Intern_Assignment---Kunal)
+- **Live Demo:** [https://web-dev-intern-assignment-kunal.vercel.app](https://web-dev-intern-assignment-kunal.vercel.app)
 - **Project Type:** Interview Assignment
 
 ---
@@ -175,6 +198,8 @@ This project is open source and available under the MIT License.
 <div align="center">
 
 ### Made with ❤️ as an Internship Interview Assignment
+
+**[View Live Demo](https://web-dev-intern-assignment-kunal.vercel.app)** • **[GitHub Repository](https://github.com/Kunal-mob/Web_Dev_Intern_Assignment---Kunal)**
 
 **[⬆ back to top](#-web-dev-intern-assignment---kunal)**
 
