@@ -5,7 +5,7 @@ import { assets } from '../../assets/progrmData'
 
 const Eligiblity = () => {
   return (
-    <div id="eligibility" className="eligibility-container">
+    <section id="eligibility" className="eligibility-container">
       <h2>Eligibility Criteria</h2>
       <hr />
       <p>Here are the eligibility criteria for our program:</p>
@@ -16,7 +16,7 @@ const Eligiblity = () => {
         <EligiblityCard title={"Contact for Queries:"} text="+91 98765 43210."/>
       
       </div>
-    </div>
+    </section>
   )
 }
 

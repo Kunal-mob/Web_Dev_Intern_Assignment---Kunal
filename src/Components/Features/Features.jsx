@@ -5,7 +5,7 @@ import { assets } from "../../assets/progrmData";
 
 const Features = () => {
   return (
-    <div id="features" className="features-container">
+    <section id="features" className="features-container">
       <h2>Why Choose the IIM Sirmaur Online MBA?</h2>
       <hr />
       <p>Designed for working professionals seeking leadership, flexibility, and future-ready AI skills.</p>
@@ -30,7 +30,7 @@ const Features = () => {
           text="Develop industry-relevant expertise in Finance, Marketing, and Operations using AI."
         />
       </div>
-    </div>
+    </section>
   );
 };
 

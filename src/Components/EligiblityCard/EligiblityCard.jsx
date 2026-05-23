@@ -3,10 +3,10 @@ import './EligibilityCard.css'
 
 const EligiblityCard = ({title,text,logo}) => {
   return (
-    <div className='eligiblity-card'>
+    <article className='eligiblity-card'>
               <h3>{title}</h3>
         <p>{text}</p>
-    </div>
+    </article>
   )
 }
 
