@@ -5,7 +5,8 @@
     justify-content: center;
     color: white;
     height: 10vh;
-    background: url(../../assets/hero_background.png);
+     background: linear-gradient(35deg,#123460  ,rgb(5, 5, 46));
+
 }
 .footer-title{
     font-size: 1.7rem;
