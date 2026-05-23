@@ -10,7 +10,7 @@
   
   color: white;
 }
-.hero-right-section {
+.hero-left-section {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -45,7 +45,7 @@ span {
 }
 .hero-img {
   width: 40%;
-  background-image: url("../../assets/hero_image.jpg");
+  background-image: url("../../assets/hero_image.webp");
   background-size: cover;
   background-position: center;
 }
